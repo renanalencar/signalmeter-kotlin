@@ -1,4 +1,4 @@
-package br.com.renanalencar.signalmeter
+package br.com.renanalencar.signalmeter.ui.viewmodel
 
 import android.app.Application
 import android.content.pm.PackageManager

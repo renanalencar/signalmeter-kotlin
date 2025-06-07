@@ -13,8 +13,9 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.core.content.ContextCompat
-import br.com.renanalencar.signalmeter.ui.SignalInfoScreen
+import br.com.renanalencar.signalmeter.ui.screen.SignalInfoScreen
 import br.com.renanalencar.signalmeter.ui.theme.SignalMeterTheme
+import br.com.renanalencar.signalmeter.ui.viewmodel.SignalInfoViewModel
 
 class MainActivity : ComponentActivity() {
     private val signalInfoViewModel: SignalInfoViewModel by viewModels()
