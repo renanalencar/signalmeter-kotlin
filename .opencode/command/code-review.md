@@ -1,6 +1,6 @@
 ---
 allowed-tools: Bash(git diff:*), Bash(git log:*)
-description: Perform a comprehensive code review of recent changes
+description: perform a comprehensive code review of recent changes
 ---
 
 ## Context

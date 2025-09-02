@@ -1,6 +1,6 @@
 ---
 allowed-tools: Bash(git diff:*), Bash(git log:*)
-description: Generate a description of those changes to be used in as a PR description
+description: generate a description of those changes to be used in as a PR description
 ---
 
 ## Context

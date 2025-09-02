@@ -1,6 +1,6 @@
 ---
 allowed-tools: Bash(git diff:*), Bash(git log:*)
-description: Write a comprehensive commit message`.
+description: write a comprehensive commit message
 ---
 
 

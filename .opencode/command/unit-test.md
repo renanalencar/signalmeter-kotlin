@@ -1,6 +1,6 @@
 ---
 allowed-tools: Bash(git diff:*), Bash(git log:*),Bash(git mkdir), gradlew
-description: Write useful unit tests for a specific class
+description: write useful unit tests for a specific class
 ---
 
 
